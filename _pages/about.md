@@ -22,6 +22,14 @@ My research interest includes computer vision and infrared small target detectio
 
 
 
+
+
+# 📖 Educations
+- *2023.09 - Present:* Ph.D student in the Department of Computer Science and Technology at UESTC. 
+- *2021.06 - 2023.06:* M.S. student in the Department of Computer Science and Technology at UESTC. 
+- *2016.09 - 2020.06:* B.S. student in the School of Information Science and Engineering at YSU.
+
+
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 We have got the excellent award of wide-area ISTD challenge in 7th PRCV.
 - *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accept by IEEE Transactions on Geoscience and Remote Sensing. 
@@ -55,7 +63,3 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 - The Outstanding Leader of Innovation and Entrepreneurship Projects for College Students (*2019.09*)
 - The Second Prize of the 9th MathorCup University Mathematical Modeling Challenge (*2019.06*)
 
-# 📖 Educations
-- *2023.09 - Present:* Ph.D student in the Department of Computer Science and Technology at UESTC. 
-- *2021.06 - 2023.06:* M.S. student in the Department of Computer Science and Technology at UESTC. 
-- *2016.09 - 2020.06:* B.S. student in the School of Information Science and Engineering at YSU.
