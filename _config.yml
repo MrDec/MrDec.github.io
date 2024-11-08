@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4Lf9RqQAAAAJ"
-  email(dwwuestc@163.com)            : "dwwuestc@163.com"
+  email            : ""
   researchgate     : "https://www.researchgate.net/profile/Weiwei-Duan-2" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/MrDec" # e.g., "github username"
+  github           : "MrDec" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
