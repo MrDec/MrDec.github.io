@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "DWW"
+title                    : "Weiwei Duan"
 description              : ""
 repository               : "MrDec/MrDec.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weiwei Duan(段威威)"
+  name             : "Weiwei Duan"
   avatar           : "images/dwwsh.jpg"
   bio              : "A Ph.D candidate at the University of Electronic Science and Technology of China"
   location         : "ChengDu, China"

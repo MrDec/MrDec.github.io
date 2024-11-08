@@ -25,17 +25,17 @@ My research interest includes computer vision and infrared small target detectio
 # 📖 Educations
 - *2023.09 - Present:* Ph.D student in the Department of Computer Science and Technology at UESTC. 
 - *2021.06 - 2023.06:* M.S. student in the Department of Computer Science and Technology at UESTC. 
-- *2016.09 - 2020.06:* B.S. student in the School of Information Science and Engineering at Yanshan University.
+- *2016.09 - 2020.06:* B.S. student in the School of Information Science and Engineering at Yanshan University (Hebei Province).
 
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 We have got the excellent award of wide-area ISTD challenge in 7th PRCV.
-- *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accept by IEEE TGRS. 
+- *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accept by IEEE Transactions on Geoscience and Remote Sensing. 
 - *2024.06*: &nbsp;🎉🎉 [TMP](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015987) has been accepted by Expert Systems with Applications. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tridos.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tridos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Triple-Domain Feature Learning With Frequency-Aware Memory Enhancement for Moving Infrared Small Target Detection**
