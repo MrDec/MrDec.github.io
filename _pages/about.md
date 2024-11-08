@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Ph.D student, Department of Computer Science and Technology, <a href='https://en.uestc.edu.cn'>University of Electronic Science and Technology of China (UESTC)</a>. My supervisor is <a href='https://scholar.google.com/citations?user=Uw8zvfIAAAAJ'>Prof. Luping Ji</a>. I became a Ph.D student through the joint master-doctor program in my second year of master's degree. I received my Bachelor's degree in computer science and technology at <a href='https://english.ysu.edu.cn/'>Yanshan University</a>.
+I am currently a Ph.D student, Department of Computer Science and Technology, <a href='https://en.uestc.edu.cn'>University of Electronic Science and Technology of China (UESTC)</a>. My supervisor is <a href='https://scholar.google.com/citations?user=Uw8zvfIAAAAJ'>Prof. Luping Ji</a>. I became a Ph.D student through the joint master-doctor program in my second year of master's degree. I received my Bachelor's degree in computer science and technology at <a href='https://english.ysu.edu.cn/'>Yanshan University ((Hebei Province))</a>.
 
 My research interest includes computer vision and infrared small target detection. I am also interested in multi-modal and visual language model. If you have any questions about my research, please feel free to contact me <a href=''>dwwuestc@163.com</a>.
 
@@ -24,8 +24,7 @@ My research interest includes computer vision and infrared small target detectio
 # 📖 Educations
 - *2023.09 - Present:* Ph.D student in the Department of Computer Science and Technology at UESTC. 
 - *2021.06 - 2023.06:* M.S. student in the Department of Computer Science and Technology at UESTC. 
-- *2016.09 - 2020.06:* B.S. student in the School of Information Science and Engineering at Yanshan University (Hebei Province).
-
+- *2016.09 - 2020.06:* B.S. student in the School of Information Science and Engineering at YSU.
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 We have got the excellent award of wide-area ISTD challenge in 7th PRCV.
