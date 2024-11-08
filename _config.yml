@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weiwei Duan"
-description              : "A Ph.D candidate at the University of Electronic Science and Technology of China"
+title                    : "DWW"
+description              : "University of Electronic Science and Technology of China"
 repository               : "MrDec/MrDec.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weiwei Duan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Electronic Science and Technology of China"
+  bio              : "A Ph.D candidate at the University of Electronic Science and Technology of China"
   location         : "ChengDu, China"
-  # employer         :
-  # pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=4Lf9RqQAAAAJ"
   email            : "dwwuestc@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Weiwei-Duan-2" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/MrDec" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-4974-2638" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
