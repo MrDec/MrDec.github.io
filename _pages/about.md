@@ -60,7 +60,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 - The Second Prize in CCF China CAT National Algorithm Elite Competition (*2024.03*) [[pdf]](../pdf/computer.pdf)
 - The Bronze Medal in China Collegiate Algorithm Design & Programming Challenge Contest (*2023.10*) [[pdf]](../pdf/program.jpg)
 - The Excellent Award in 9th China Postgraduate Intelligent City Technology and Design Competition (*2023.10*) [[pdf]](../pdf/city.jpg)
-- The Sibo Award (firtst-class) of National Campus Creativity Competition of China National Petroleum Corporation (*2023.07*) [[pdf]](../pdf/sibo.jpg)
+- The Sibo Award (firtst-class) of National Campus Creativity Competition of China National Petroleum Corporation (*2023.07*) [[pdf]](../pdf/sibo.png)
 - The China Computer Software Copyright (No.2023SR0347015) (2023.03) [[pdf]](../pdf/soft.jpg)
 - The Member of Photography Studio of Graduate Student Association of UESTC (*2022.09*) [[pdf]](../pdf/photo.jpg)
 - The Certificate of "Tencent Rhino-bird Open-source Training Program" project (*2022.08*) [[pdf]](../pdf/tencent.jpg)
