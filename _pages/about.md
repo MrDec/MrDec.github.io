@@ -55,11 +55,11 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 
 
 # 🎖 Honors and Awards
-- The Excellent Award of Wide-area Infrared Small Target Detection Challenge in PRCV 2024 (*2024.10*) [pdf](../pdf/prcv.jpg)
+- The Excellent Award of Wide-area Infrared Small Target Detection Challenge in PRCV 2024 (*2024.10*) [[pdf]](../pdf/prcv.jpg)
 - The First-class Ph.D Student Academic Scholarship of UESTC (*2024.10*) 
-- The Second Prize in CCF China CAT National Algorithm Elite Competition (*2024.03*) [pdf](../pdf/computer.pdf)
-- The Bronze Medal in China Collegiate Algorithm Design & Programming Challenge Contest (*2023.10*) [pdf](../pdf/program.jpg)
-- The Excellent Award in 9th China Postgraduate Intelligent City Technology and Design Competition (*2023.10*)[pdf](../pdf/city.jpg)
+- The Second Prize in CCF China CAT National Algorithm Elite Competition (*2024.03*) [[pdf]](../pdf/computer.pdf)
+- The Bronze Medal in China Collegiate Algorithm Design & Programming Challenge Contest (*2023.10*) [[pdf]](../pdf/program.jpg)
+- The Excellent Award in 9th China Postgraduate Intelligent City Technology and Design Competition (*2023.10*) [[pdf]](../pdf/city.jpg)
 - The Third-class M.S Student Academic Scholarship of UESTC (Twice) (*2021-2022*)
 - The School level Outstanding Postgraduate Cadres (*2021.09*)
 - The Outstanding Graduate Student of YSU (*2020.06*)
