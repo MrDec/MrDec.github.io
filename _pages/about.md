@@ -54,7 +54,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 </div>
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - The Excellent Award of Wide-area Infrared Small Target Detection Challenge in PRCV 2024 (*2024.10*) [[pdf]](../pdf/prcv.jpg)
 - The First-class Ph.D Student Academic Scholarship of UESTC (*2024.10*) 
 - The Second Prize in CCF China CAT National Algorithm Elite Competition (*2024.03*) [[pdf]](../pdf/computer.pdf)
@@ -66,7 +66,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 - The Certificate of "Tencent Rhino-bird Open-source Training Program" project (*2022.08*) [[pdf]](../pdf/tencent.jpg)
 - The Third-class M.S Student Academic Scholarship of UESTC (Twice) (*2021-2022*) [[pdf]](../pdf/third.jpg)
 - The School level Outstanding Postgraduate Cadres (*2021.09*) [[pdf]](../pdf/ganbu.jpg)
-- The Outstanding Graduate Student of YSU (*2020.06*)
-- The Outstanding Leader of Innovation and Entrepreneurship Projects for College Students (*2019.09*)
+- The Outstanding Graduate Student of YSU (*2020.06*) [[pdf]](../pdf/biye.png)
+- The Outstanding Leader of Innovation and Entrepreneurship Projects for College Students (*2019.09*) [[pdf]](../pdf/chuang.png)
 - The Second Prize of the 9th MathorCup University Mathematical Modeling Challenge (*2019.06*)
 
