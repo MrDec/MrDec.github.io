@@ -65,7 +65,6 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 - The Member of Photography Studio of Graduate Student Association of UESTC (*2022.09*) [[pdf]](../pdf/photo.jpg)
 - The Certificate of "Tencent Rhino-bird Open-source Training Program" project (*2022.08*) [[pdf]](../pdf/tencent.jpg)
 - The Third-class M.S Student Academic Scholarship of UESTC (Twice) (*2021-2022*) [[pdf]](../pdf/third.jpg)
-- The School level Outstanding Postgraduate Cadres (*2021.09*) [[pdf]](../pdf/ganbu.jpg)
 - The Outstanding Graduate Student of YSU (*2020.06*) [[pdf]](../pdf/biye.png)
 - The Outstanding Leader of Innovation and Entrepreneurship Projects for College Students (*2019.09*) [[pdf]](../pdf/chuang.png)
 - The Second Prize of the 9th MathorCup University Mathematical Modeling Challenge (*2019.06*)
