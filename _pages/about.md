@@ -53,6 +53,21 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/s2mvp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Semi-supervised Multi-view Prototype  Learning with Motion Reconstruction for Moving Infrared Small Target Detection**
+
+**Weiwei Duan**, Luping Ji, Jianghong Huang, Shengjia Chen, Shuang Peng, Sicheng Zhu, Mao Ye
+
+IEEE Transactions on Geoscience and Remote Sensing (Major), 2024
+
+[Paper]() | [Code](https://github.com/UESTC-nnLab/S2MVP)
+</div>
+</div>
+
+
+
 
 # 🏆 Honors and Awards
 - The Excellent Award of Wide-area Infrared Small Target Detection Challenge in PRCV 2024 (*2024.10*) [[pdf]](../pdf/prcv.jpg)
