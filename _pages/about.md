@@ -70,8 +70,9 @@ IEEE Transactions on Geoscience and Remote Sensing (Major), 2024
 
 
 # 🏆 Honors and Awards
+- The Outstanding Postgraduate Students of UESTC (*2024.11*) [[pdf]](../pdf/outstanding.jpg)
+- The First-class Ph.D Student Academic Scholarship of UESTC (*2024.11*) [[pdf]](../pdf/firstclass.jpg)
 - The Excellent Award of Wide-area Infrared Small Target Detection Challenge in PRCV 2024 (*2024.10*) [[pdf]](../pdf/prcv.jpg)
-- The First-class Ph.D Student Academic Scholarship of UESTC (*2024.10*) 
 - The Second Prize in CCF China CAT National Algorithm Elite Competition (*2024.03*) [[pdf]](../pdf/computer.pdf)
 - The Bronze Medal in China Collegiate Algorithm Design & Programming Challenge Contest (*2023.10*) [[pdf]](../pdf/program.jpg)
 - The Excellent Award in 9th China Postgraduate Intelligent City Technology and Design Competition (*2023.10*) [[pdf]](../pdf/city.jpg)
@@ -82,5 +83,5 @@ IEEE Transactions on Geoscience and Remote Sensing (Major), 2024
 - The Third-class M.S Student Academic Scholarship of UESTC (Twice) (*2021-2022*) [[pdf]](../pdf/third.jpg)
 - The Outstanding Graduate Student of YSU (*2020.06*) [[pdf]](../pdf/biye.png)
 - The Outstanding Leader of Innovation and Entrepreneurship Projects for College Students (*2019.09*) [[pdf]](../pdf/chuang.png)
-- The Second Prize of the 9th MathorCup University Mathematical Modeling Challenge (*2019.06*)
+- The Second Prize of the 9th MathorCup University Mathematical Modeling Challenge (*2019.06*) [[pdf]](../pdf/math.jpg)
 
