@@ -25,9 +25,9 @@ My research interest includes computer vision and infrared small target detectio
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 [MoPKL](https://github.com/UESTC-nnLab/MoPKL) has been accepted by AAAI 2025. 
 - *2024.10*: &nbsp;🎉🎉 We have got the excellent award of wide-area ISTD challenge in PRCV 2024.
 - *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accept by IEEE Transactions on Geoscience and Remote Sensing. 
-- *2024.06*: &nbsp;🎉🎉 [TMP](https://www.sciencedirect.com/science/article/abs/pii/S0957417424015987) has been accepted by Expert Systems with Applications. 
 
 
 
@@ -63,6 +63,19 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 IEEE Transactions on Geoscience and Remote Sensing (Major), 2024
 
 [Paper]() | [Code](https://github.com/UESTC-nnLab/S2MVP)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Motion Prior Knowledge Learning with Homogeneous Language Descriptions  for Moving Infrared Small Target Detection**
+
+Shengjia Chen, Luping Ji, **Weiwei Duan**, Shuang Peng, Mao Ye
+
+AAAI, 2025
+
+[Paper]() | [Code](https://github.com/UESTC-nnLab/MoPKL)
 </div>
 </div>
 
