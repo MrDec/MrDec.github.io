@@ -96,5 +96,5 @@ AAAI, 2025
 - The Third-class M.S Student Academic Scholarship of UESTC (Twice) (*2021-2022*) [[pdf]](../pdf/third.jpg)
 - The Outstanding Graduate Student of YSU (*2020.06*) [[pdf]](../pdf/biye.png)
 - The Outstanding Leader of Innovation and Entrepreneurship Projects for College Students (*2019.09*) [[pdf]](../pdf/chuang.png)
-- The Second Prize of the 9th MathorCup University Mathematical Modeling Challenge (*2019.06*) [[pdf]](../pdf/math.jpg)
+- The Second Prize of the 9th MathorCup University Mathematical Modeling Challenge (*2019.06*) [[pdf]](../pdf/math.png)
 
