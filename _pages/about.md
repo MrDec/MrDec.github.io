@@ -51,7 +51,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 
 [Paper](https://ieeexplore.ieee.org/document/10663463) | [Code](https://github.com/UESTC-nnLab/Tridos)
 </div>
-</div>
+</div>  
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/s2mvp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,3 +98,5 @@ AAAI, 2025
 - The Outstanding Leader of Innovation and Entrepreneurship Projects for College Students (*2019.09*) [[pdf]](../pdf/chuang.png)
 - The Second Prize of the 9th MathorCup University Mathematical Modeling Challenge (*2019.06*) [[pdf]](../pdf/math.png)
 
+<a href="https://clustrmaps.com/site/1c3e9"  title="ClustrMaps">
+<img src="//www.clustrmaps.com/map_v2.png?d=1q66MFuAKmvadLzIXSM4_QB_dswNpL1VZQRf9EZ3Jg8&cl=ffffff" /></a>
