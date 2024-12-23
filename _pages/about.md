@@ -98,5 +98,5 @@ AAAI, 2025
 - The Outstanding Leader of Innovation and Entrepreneurship Projects for College Students (*2019.09*) [[pdf]](../pdf/chuang.png)
 - The Second Prize of the 9th MathorCup University Mathematical Modeling Challenge (*2019.06*) [[pdf]](../pdf/math.png)
 
-<a href="https://clustrmaps.com/site/1c3e9"  title="ClustrMaps">
-<img src="//www.clustrmaps.com/map_v2.png?d=1q66MFuAKmvadLzIXSM4_QB_dswNpL1VZQRf9EZ3Jg8&cl=ffffff" /></a>
+<!-- <a href="https://clustrmaps.com/site/1c3e9"  title="ClustrMaps">
+<img src="//www.clustrmaps.com/map_v2.png?d=1q66MFuAKmvadLzIXSM4_QB_dswNpL1VZQRf9EZ3Jg8&cl=ffffff" /></a> -->
