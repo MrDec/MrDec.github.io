@@ -86,6 +86,7 @@ AAAI, 2025
 # 🏆 Honors and Awards
 - The Outstanding Postgraduate Students of UESTC (*2024.11*) [[pdf]](../pdf/outstanding.jpg)
 - The First-class Ph.D Student Academic Scholarship of UESTC (*2024.11*) [[pdf]](../pdf/firstclass.jpg)
+- The Recognition Award of Lightweight Infrared Small Target Detection Challenge in 27th ICPR (*2024.10*) [[pdf]](../pdf/ICPR.jpg)
 - The Excellent Award of Wide-area Infrared Small Target Detection Challenge in PRCV 2024 (*2024.10*) [[pdf]](../pdf/prcv.jpg)
 - The Second Prize in CCF China CAT National Algorithm Elite Competition (*2024.03*) [[pdf]](../pdf/computer.pdf)
 - The Bronze Medal in China Collegiate Algorithm Design & Programming Challenge Contest (*2023.10*) [[pdf]](../pdf/program.jpg)
