@@ -54,7 +54,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 </div>
 </div>  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/s2mvp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/s2mvp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Semi-supervised Multi-view Prototype  Learning with Motion Reconstruction for Moving Infrared Small Target Detection**
