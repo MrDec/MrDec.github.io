@@ -25,6 +25,7 @@ My research interest includes computer vision and infrared small target detectio
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 [AGAT-IL]() has been accepted by EAAI 2025.
 - *2025.01*: &nbsp;🎉🎉 [S2MVP](https://github.com/UESTC-nnLab/S2MVP) has been accepted by IEEE TGRS 2025. 
 - *2024.12*: &nbsp;🎉🎉 [MoPKL](https://github.com/UESTC-nnLab/MoPKL) has been accepted by AAAI 2025. 
 - *2024.10*: &nbsp;🎉🎉 We have got the excellent award of wide-area ISTD challenge in PRCV 2024.
@@ -64,6 +65,19 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 IEEE Transactions on Geoscience and Remote Sensing, 2025
 
 [Paper]() | [Code](https://github.com/UESTC-nnLab/S2MVP)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/AGAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Adaptive Graph Attention Networks with Interactive Learning for Attributed Graph Clustering**
+
+**Weiwei Duan**, Luping Ji, Lijun Wu, Qi Deng, Zhiyuan Li
+
+Engineering Applications of Artificial Intelligence, 2025
+
+[Paper]() | [Code]()
 </div>
 </div>
 
