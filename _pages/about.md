@@ -25,10 +25,10 @@ My research interest includes computer vision and infrared small target detectio
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 [S2MVP](https://github.com/UESTC-nnLab/S2MVP) has been accepted by TGRS 2025. 
+- *2025.01*: &nbsp;🎉🎉 [S2MVP](https://github.com/UESTC-nnLab/S2MVP) has been accepted by IEEE TGRS 2025. 
 - *2024.12*: &nbsp;🎉🎉 [MoPKL](https://github.com/UESTC-nnLab/MoPKL) has been accepted by AAAI 2025. 
 - *2024.10*: &nbsp;🎉🎉 We have got the excellent award of wide-area ISTD challenge in PRCV 2024.
-- *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accept by IEEE Transactions on Geoscience and Remote Sensing. 
+- *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accepted by IEEE TGRS 2024. 
 
 
 
