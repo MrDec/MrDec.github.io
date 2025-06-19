@@ -78,7 +78,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2025
 Engineering Applications of Artificial Intelligence, 2025
 
 [Paper]() | [Code]()
-</div>
+</div> 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai2025.png' alt="sym" width="100%"></div></div>
@@ -118,13 +118,16 @@ AAAI, 2025
 ## Conference Reviewer
 - International Joint Conference on Artificial Intelligence (IJCAI)
 - International Joint Conference on Neural Networks (IJCNN)
+- ...
 
 ## Journal Reviewer
-- IEEE Transactions on Geoscience and Remote Sensing 
+- IEEE Transactions on Geoscience and Remote Sensing
+- Pattern Recognition 
 - Information Fusion
 - Engineering Applications of Artificial Intelligence
-- Applied Intelligence 
 - Applied Soft Computing
+- Applied Intelligence 
 - Multimedia Systems
 - The Journal of Supercomputing
 - Signal, Image and Video Processing
+- ...
