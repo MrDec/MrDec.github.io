@@ -64,7 +64,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 
 IEEE Transactions on Geoscience and Remote Sensing, 2025
 
-[Paper]() | [Code](https://github.com/UESTC-nnLab/S2MVP)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10824834) | [Code](https://github.com/UESTC-nnLab/S2MVP)
 </div>
 </div>
 
