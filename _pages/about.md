@@ -25,7 +25,7 @@ My research interest includes computer vision and infrared small target detectio
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 [AGAT-IL]() has been accepted by EAAI 2025.
+- *2025.06*: &nbsp;🎉🎉 [AGAT-IL](https://www.sciencedirect.com/science/article/abs/pii/S0952197625015763) has been accepted by EAAI 2025.
 - *2025.01*: &nbsp;🎉🎉 [S2MVP](https://github.com/UESTC-nnLab/S2MVP) has been accepted by IEEE TGRS 2025. 
 - *2024.12*: &nbsp;🎉🎉 [MoPKL](https://github.com/UESTC-nnLab/MoPKL) has been accepted by AAAI 2025. 
 - *2024.10*: &nbsp;🎉🎉 We have got the excellent award of wide-area ISTD challenge in PRCV 2024.
@@ -77,7 +77,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2025
 
 Engineering Applications of Artificial Intelligence, 2025
 
-[Paper]() | [Code]()
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625015763) | [Code](https://github.com/MrDec/AGAT-IL)
 </div> 
 </div>
 
@@ -90,7 +90,7 @@ Shengjia Chen, Luping Ji, **Weiwei Duan**, Shuang Peng, Mao Ye
 
 AAAI, 2025
 
-[Paper]() | [Code](https://github.com/UESTC-nnLab/MoPKL)
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32217) | [Code](https://github.com/UESTC-nnLab/MoPKL)
 </div>
 </div>
 
@@ -116,18 +116,12 @@ AAAI, 2025
 
 # 💻 Services
 ## Conference Reviewer
-- International Joint Conference on Artificial Intelligence (IJCAI)
-- International Joint Conference on Neural Networks (IJCNN)
+- AAAI, IJCAI, IJCNN
 - ...
 
 ## Journal Reviewer
 - IEEE Transactions on Geoscience and Remote Sensing
-- Pattern Recognition 
-- Information Fusion
-- Engineering Applications of Artificial Intelligence
-- Applied Soft Computing
-- Applied Intelligence 
-- Multimedia Systems
-- The Journal of Supercomputing
-- Signal, Image and Video Processing
+- Pattern Recognition, Information Fusion, EAAI, ESWA, KBS
+- Applied Soft Computing, Applied Intelligence
+- Multimedia Systems, The Journal of Supercomputing, Signal, Image and Video Processing
 - ...
