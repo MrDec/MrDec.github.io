@@ -25,6 +25,8 @@ My research interest includes computer vision and infrared small target detectio
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 **Two** papers have been accepted by AAAI 2026.
+- *2025.08*: &nbsp;🎉🎉 [WeCoL](https://ieeexplore.ieee.org/document/11184625) has been accepted by TGRS 2025.
 - *2025.06*: &nbsp;🎉🎉 [AGAT-IL](https://www.sciencedirect.com/science/article/abs/pii/S0952197625015763) has been accepted by EAAI 2025.
 - *2025.01*: &nbsp;🎉🎉 [S2MVP](https://github.com/UESTC-nnLab/S2MVP) has been accepted by IEEE TGRS 2025. 
 - *2024.12*: &nbsp;🎉🎉 [MoPKL](https://github.com/UESTC-nnLab/MoPKL) has been accepted by AAAI 2025. 
@@ -41,6 +43,69 @@ My research interest includes computer vision and infrared small target detectio
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SeViL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**SeViL: Semi-supervised Vision-Language Learning with Text Prompt Guiding for Moving Infrared Small Target Detection**
+
+**Weiwei Duan**, Luping Ji, Jianghong Huang, Sicheng Zhu
+
+AAAI, 2026
+
+[Paper]() | [Code](https://github.com/UESTC-nnLab/SeViL)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SeViL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Cross-domain Joint Learning with Prototype-guided Mixture-of-Experts for Infrared Moving Small Target Detection**
+
+**Weiwei Duan**, Luping Ji, Jianghong Huang, Sicheng Zhu,  Mao Ye
+
+AAAI, 2026
+
+[Paper]() | [Code](https://github.com/UESTC-nnLab/CoMoE)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/wecol.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Weakly Supervised Contrastive Learning With Quantity Prompts for Moving Infrared Small Target Detection**
+
+**Weiwei Duan**, Luping Ji, Shengjia Chen, Sicheng Zhu, Jianghong Huang, Mao Ye
+
+IEEE Transactions on Geoscience and Remote Sensing, 2025
+
+[Paper](https://ieeexplore.ieee.org/document/11184625) | [Code](https://github.com/UESTC-nnLab/WeCol)
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/s2mvp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Semi-supervised Multi-view Prototype  Learning with Motion Reconstruction for Moving Infrared Small Target Detection**
+
+**Weiwei Duan**, Luping Ji, Jianghong Huang, Shengjia Chen, Shuang Peng, Sicheng Zhu, Mao Ye
+
+IEEE Transactions on Geoscience and Remote Sensing, 2025
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/10824834) | [Code](https://github.com/UESTC-nnLab/S2MVP)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/AGAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Adaptive Graph Attention Networks with Interactive Learning for Attributed Graph Clustering**
+
+**Weiwei Duan**, Luping Ji, Lijun Wu, Qi Deng, Zhiyuan Li
+
+Engineering Applications of Artificial Intelligence, 2025
+
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625015763) | [Code](https://github.com/MrDec/AGAT-IL)
+</div> 
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='images/tridos.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,35 +120,9 @@ IEEE Transactions on Geoscience and Remote Sensing, 2024
 </div>
 </div>  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/s2mvp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Semi-supervised Multi-view Prototype  Learning with Motion Reconstruction for Moving Infrared Small Target Detection**
-
-**Weiwei Duan**, Luping Ji, Jianghong Huang, Shengjia Chen, Shuang Peng, Sicheng Zhu, Mao Ye
-
-IEEE Transactions on Geoscience and Remote Sensing, 2025
-
-[Paper](https://ieeexplore.ieee.org/abstract/document/10824834) | [Code](https://github.com/UESTC-nnLab/S2MVP)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/AGAT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Adaptive Graph Attention Networks with Interactive Learning for Attributed Graph Clustering**
-
-**Weiwei Duan**, Luping Ji, Lijun Wu, Qi Deng, Zhiyuan Li
-
-Engineering Applications of Artificial Intelligence, 2025
-
-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625015763) | [Code](https://github.com/MrDec/AGAT-IL)
-</div> 
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Motion Prior Knowledge Learning with Homogeneous Language Descriptions  for Moving Infrared Small Target Detection**
 
 Shengjia Chen, Luping Ji, **Weiwei Duan**, Shuang Peng, Mao Ye
