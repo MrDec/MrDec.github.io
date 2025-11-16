@@ -55,7 +55,7 @@ AAAI, 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SeViL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/CoMoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Cross-domain Joint Learning with Prototype-guided Mixture-of-Experts for Infrared Moving Small Target Detection**
 
