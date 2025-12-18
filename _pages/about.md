@@ -159,7 +159,7 @@ AAAI, 2025
 - ...
 
 ## Journal Reviewer
-- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE TGRS, TIP, TNNLS
 - Pattern Recognition, Information Fusion, EAAI, ESWA, KBS
 - Applied Soft Computing, Applied Intelligence
 - Multimedia Systems, The Journal of Supercomputing, Signal, Image and Video Processing
