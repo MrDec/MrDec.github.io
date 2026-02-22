@@ -25,13 +25,14 @@ My research interest includes computer vision and infrared small target detectio
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 **[CHAL]()** have been accepted by CVPR 2026.
 - *2025.11*: &nbsp;🎉🎉 **Two** papers have been accepted by AAAI 2026.
 - *2025.08*: &nbsp;🎉🎉 [WeCoL](https://ieeexplore.ieee.org/document/11184625) has been accepted by TGRS 2025.
 - *2025.06*: &nbsp;🎉🎉 [AGAT-IL](https://www.sciencedirect.com/science/article/abs/pii/S0952197625015763) has been accepted by EAAI 2025.
 - *2025.01*: &nbsp;🎉🎉 [S2MVP](https://github.com/UESTC-nnLab/S2MVP) has been accepted by IEEE TGRS 2025. 
 - *2024.12*: &nbsp;🎉🎉 [MoPKL](https://github.com/UESTC-nnLab/MoPKL) has been accepted by AAAI 2025. 
 - *2024.10*: &nbsp;🎉🎉 We have got the excellent award of wide-area ISTD challenge in PRCV 2024.
-- *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accepted by IEEE TGRS 2024. 
+- *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accepted by TGRS 2024. 
 
 
 
@@ -43,6 +44,18 @@ My research interest includes computer vision and infrared small target detectio
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CHAL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**CHAL: Causal-guided Hierarchical Anomaly-aware Learning for Moving Infrared Small Target Detection**
+
+**Weiwei Duan**, Luping Ji, Shipeng Lei, Sicheng Zhu, Jianghong Huang, Mao Ye
+
+CVPR, 2026
+
+[Paper]() | [Code]()
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SeViL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **SeViL: Semi-supervised Vision-Language Learning with Text Prompt Guiding for Moving Infrared Small Target Detection**
