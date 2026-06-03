@@ -20,7 +20,7 @@ I am currently a Ph.D student, Department of Computer Science and Technology, <a
 
 My research interest includes computer vision and infrared small target detection. I am also interested in multi-modal and visual language model. If you have any questions about my research, please feel free to contact me <a href=''>dwwuestc@163.com</a>.
 
-<span style="color: red;">I will graduating in June 2027, currently available for the job market and seeking Algorithm Researcher or internship positions.Pleasefeel free to reach out and connect!</span>
+<span style="color: red;">I will graduating in June 2027, currently available for the job market and seeking Algorithm Researcher or internship positions.Please feel free to reach out and connect!</span>
 
 
 
@@ -50,7 +50,7 @@ My research interest includes computer vision and infrared small target detectio
 
 **Weiwei Duan**, Luping Ji, Sicheng Zhu, Jianghong Huang 
 
-NeurIPS 2026, (Under Review)
+NeurIPS 2026, (**Under Review**)
 
 [Paper]() | [Code]()
 </div>
@@ -183,7 +183,7 @@ AAAI, 2025
 
 # 💻 Services
 ## Conference Reviewer
-- AAAI, IJCAI, IJCNN
+- CVPR, ICCV, ECCV, NeurIPS, ACM MM, AAAI, IJCAI, IJCNN
 - ...
 
 ## Journal Reviewer
