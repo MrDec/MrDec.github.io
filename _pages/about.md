@@ -20,7 +20,7 @@ I am currently a Ph.D student, Department of Computer Science and Technology, <a
 
 My research interest includes computer vision and infrared small target detection. I am also interested in multi-modal and visual language model. If you have any questions about my research, please feel free to contact me <a href=''>dwwuestc@163.com</a>.
 
-
+<span style="color: red;">I will graduating in June 2027, currently available for the job market and seeking Algorithm Researcher or internship positions.Pleasefeel free to reach out and connect!</span>
 
 
 
@@ -32,7 +32,7 @@ My research interest includes computer vision and infrared small target detectio
 - *2025.01*: &nbsp;🎉🎉 [S2MVP](https://github.com/UESTC-nnLab/S2MVP) has been accepted by IEEE TGRS 2025. 
 - *2024.12*: &nbsp;🎉🎉 [MoPKL](https://github.com/UESTC-nnLab/MoPKL) has been accepted by AAAI 2025. 
 - *2024.10*: &nbsp;🎉🎉 We have got the excellent award of wide-area ISTD challenge in PRCV 2024.
-- *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accepted by TGRS 2024. 
+- *2024.08*: &nbsp;🎉🎉 [Tridos](https://ieeexplore.ieee.org/document/10663463) has been accepted by IEEE TGRS 2024. 
 
 
 
@@ -43,7 +43,20 @@ My research interest includes computer vision and infrared small target detectio
 
 
 
-# 📝 Publications 
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/GUEL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**GUEL: Geometry-guided Uncertainty Evidential Learning for Infrared-Visible Small Target Detection**
+
+**Weiwei Duan**, Luping Ji, Sicheng Zhu, Jianghong Huang 
+
+NeurIPS 2026, (Under Review)
+
+[Paper]() | [Code]()
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CHAL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **CHAL: Causal-guided Hierarchical Anomaly-aware Learning for Moving Infrared Small Target Detection**
@@ -52,7 +65,7 @@ My research interest includes computer vision and infrared small target detectio
 
 CVPR, 2026
 
-[Paper]() | [Code]()
+[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Duan_CHAL_Causal-guided_Hierarchical_Anomaly-aware_Learning_for_Moving_Infrared_Small_Target_CVPR_2026_paper.html) | [Code](https://github.com/UESTC-nnLab/CHAL)
 </div>
 </div>
 
@@ -97,7 +110,7 @@ IEEE Transactions on Geoscience and Remote Sensing, 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/s2mvp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Semi-supervised Multi-view Prototype  Learning with Motion Reconstruction for Moving Infrared Small Target Detection**
+**Semi-supervised Multi-view Prototype  Learning with Motion Reconstruction for Moving Infrared Small Target Detection**  <font color="red">ESI Highly Cited</font>
 
 **Weiwei Duan**, Luping Ji, Jianghong Huang, Shengjia Chen, Shuang Peng, Sicheng Zhu, Mao Ye
 
@@ -150,6 +163,8 @@ AAAI, 2025
 
 
 # 🏆 Honors and Awards
+- The Academic Rising Star of UESTC (*2026.03*) [[pdf]](../pdf/mingdan.pdf)
+- The Gold Medal of National College Student Algorithm Design and Programming Contest (*2025.11*) [[pdf]](../pdf/gold.pdf)
 - The Outstanding Postgraduate Students of UESTC (*2024.11*) [[pdf]](../pdf/outstanding.jpg)
 - The First-class Ph.D Student Academic Scholarship of UESTC (*2024.11*) [[pdf]](../pdf/firstclass.jpg)
 - The Recognition Award of Lightweight Infrared Small Target Detection Challenge in 27th ICPR (*2024.10*) [[pdf]](../pdf/ICPR.jpg)
