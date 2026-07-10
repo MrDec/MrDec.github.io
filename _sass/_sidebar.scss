@@ -297,9 +297,36 @@
     object-fit: cover;
   }
 
+  .visitor-map__history {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+
+    span {
+      position: absolute;
+      width: 5px;
+      height: 5px;
+      border: 1px solid rgba(#fff, 0.95);
+      border-radius: 50%;
+      background: #4e9eaa;
+      box-shadow: 0 0 0 1px rgba(#2d7782, 0.35);
+      transform: translate(-50%, -50%);
+    }
+
+    .is-highlight {
+      background: #ffc63c;
+      box-shadow: 0 0 0 2px rgba(#ffc63c, 0.3);
+    }
+  }
+
   .visitor-map__canvas > span {
     position: relative;
-    z-index: 1;
+    z-index: 2;
+  }
+
+  .visitor-map__canvas > span > img:first-child {
+    opacity: 0;
   }
 }
 
