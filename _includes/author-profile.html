@@ -216,14 +216,36 @@
     </div>
   </div>
   <div class="visitor-map">
-    <a href="https://info.flagcounter.com/SuBR" target="_blank" rel="noopener noreferrer" aria-label="View visitor statistics">
-      <img src="https://s01.flagcounter.com/map/SuBR/size_s/txt_000000/border_E5E7EB/pageviews_0/viewers_0/flags_0/"
-           alt="Map of visitor locations"
+    <div class="visitor-map__canvas" aria-label="Live map of visitor locations">
+      <img class="visitor-map__fallback"
+           src="{{ '/images/visitor-map-classic.jpg' | relative_url }}"
+           alt="World map"
            width="200"
-           height="103"
-           loading="lazy"
-           decoding="async"
-           onerror="this.closest('.visitor-map').hidden=true">
-    </a>
+           height="100">
+      <script id="_waudww">var _wau = window._wau || []; _wau.push(["map", "prymtze7rh", "dww", "200", "100", "classic", "default-yellow"]);</script>
+      <script async src="https://waust.at/m.js"></script>
+    </div>
+    <div class="visitor-count" aria-label="Total visits">
+      <span class="visitor-count__label">Total visits</span>
+      <strong id="visitor-count">10,089</strong>
+    </div>
   </div>
+  <script>
+    (function () {
+      var count = document.getElementById('visitor-count');
+      if (!count || !window.fetch) return;
+
+      fetch('https://api.counterapi.dev/v1/mrdec.github.io/homepage/up', { cache: 'no-store' })
+        .then(function (response) {
+          if (!response.ok) throw new Error('Counter request failed');
+          return response.json();
+        })
+        .then(function (data) {
+          if (typeof data.count === 'number') {
+            count.textContent = data.count.toLocaleString('en-US');
+          }
+        })
+        .catch(function () {});
+    }());
+  </script>
 </div>
