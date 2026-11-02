@@ -242,24 +242,32 @@
     <div class="visitor-count" aria-label="Total visits">
       <span class="visitor-count__label">Total visits</span>
       <strong id="visitor-count">3,089</strong>
+      <span id="busuanzi_container_page_pv" hidden>
+        <span id="busuanzi_value_page_pv"></span>
+      </span>
     </div>
   </div>
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   <script>
     (function () {
       var count = document.getElementById('visitor-count');
-      if (!count || !window.fetch) return;
+      var pageViews = document.getElementById('busuanzi_value_page_pv');
+      var initialCount = 3089;
+      if (!count || !pageViews) return;
 
-      fetch('https://api.counterapi.dev/v1/mrdec.github.io/homepage/up', { cache: 'no-store' })
-        .then(function (response) {
-          if (!response.ok) throw new Error('Counter request failed');
-          return response.json();
-        })
-        .then(function (data) {
-          if (typeof data.count === 'number') {
-            count.textContent = data.count.toLocaleString('en-US');
-          }
-        })
-        .catch(function () {});
+      function updateCount() {
+        var visits = parseInt(pageViews.textContent.replace(/,/g, ''), 10);
+        if (!isNaN(visits)) {
+          count.textContent = (initialCount + visits).toLocaleString('en-US');
+        }
+      }
+
+      new MutationObserver(updateCount).observe(pageViews, {
+        childList: true,
+        characterData: true,
+        subtree: true
+      });
+      updateCount();
     }());
   </script>
 </div>
